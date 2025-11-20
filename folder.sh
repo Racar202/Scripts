@@ -1,3 +1,5 @@
+#Simple script to create folders without replacing them if they already exist
+
 #!/bin/bash
 
 echo -n "Folder's name: "
